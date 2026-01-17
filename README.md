@@ -118,8 +118,7 @@ The complete implementation runs **top-to-bottom without errors**, producing:
 * Model predictions
 * Evaluation metrics
 
-
-## **5. Evaluation & Analysis**
+5. Evaluation & Analysis
 
 a. Metrics Used
 
